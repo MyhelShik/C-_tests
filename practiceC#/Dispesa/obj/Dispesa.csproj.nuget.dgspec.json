@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MyhelShik\\Desktop\\practiceC#\\Dispesa\\Dispesa.csproj": {}
+    "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\Dispesa\\Dispesa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MyhelShik\\Desktop\\practiceC#\\Dispesa\\Dispesa.csproj": {
+    "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\Dispesa\\Dispesa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MyhelShik\\Desktop\\practiceC#\\Dispesa\\Dispesa.csproj",
+        "projectUniqueName": "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\Dispesa\\Dispesa.csproj",
         "projectName": "Dispesa",
-        "projectPath": "C:\\Users\\MyhelShik\\Desktop\\practiceC#\\Dispesa\\Dispesa.csproj",
+        "projectPath": "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\Dispesa\\Dispesa.csproj",
         "packagesPath": "C:\\Users\\MyhelShik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MyhelShik\\Desktop\\practiceC#\\Dispesa\\obj\\",
+        "outputPath": "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\Dispesa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MyhelShik\\AppData\\Roaming\\NuGet\\NuGet.Config"

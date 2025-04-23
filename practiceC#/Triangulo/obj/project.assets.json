@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MyhelShik\\Desktop\\practiceC#\\Triangulo\\Triangulo.csproj",
+      "projectUniqueName": "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\Triangulo\\Triangulo.csproj",
       "projectName": "Triangulo",
-      "projectPath": "C:\\Users\\MyhelShik\\Desktop\\practiceC#\\Triangulo\\Triangulo.csproj",
+      "projectPath": "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\Triangulo\\Triangulo.csproj",
       "packagesPath": "C:\\Users\\MyhelShik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MyhelShik\\Desktop\\practiceC#\\Triangulo\\obj\\",
+      "outputPath": "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\Triangulo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MyhelShik\\AppData\\Roaming\\NuGet\\NuGet.Config"

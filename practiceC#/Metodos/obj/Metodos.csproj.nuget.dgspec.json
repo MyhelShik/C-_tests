@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MyhelShik\\Desktop\\practiceC#\\Metodos\\Metodos.csproj": {}
+    "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\Metodos\\Metodos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MyhelShik\\Desktop\\practiceC#\\Metodos\\Metodos.csproj": {
+    "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\Metodos\\Metodos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MyhelShik\\Desktop\\practiceC#\\Metodos\\Metodos.csproj",
+        "projectUniqueName": "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\Metodos\\Metodos.csproj",
         "projectName": "Metodos",
-        "projectPath": "C:\\Users\\MyhelShik\\Desktop\\practiceC#\\Metodos\\Metodos.csproj",
+        "projectPath": "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\Metodos\\Metodos.csproj",
         "packagesPath": "C:\\Users\\MyhelShik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MyhelShik\\Desktop\\practiceC#\\Metodos\\obj\\",
+        "outputPath": "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\Metodos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MyhelShik\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -60,10 +60,10 @@ class Program
                 if(expenses[i].category == input)
                 {
                     total += expenses[i].value;
-                    Console.WriteLine($"Expense index:{count}\nCategory:{expenses[i].category}\nValue:{expenses[i].value}\n");
+                    Console.WriteLine($"\nExpense index:{count}\nCategory:{expenses[i].category}\nValue:{expenses[i].value}\n");
                 }
             }
-            Console.WriteLine($"Total value of {input} category: {total}");
+            Console.WriteLine($"Total value of {input} category: {total}$");
         }
 
         void RemoveExpenses(List<Expenses> expenses)
@@ -71,37 +71,53 @@ class Program
             PrintExpenses(expenses);
             Console.WriteLine($"Type the index of the expense to remove...");
 
-            string inputStr = Console.ReadLine();
+            int input = int.Parse(Console.ReadLine());
 
-            if(int.TryParse(inputStr, out int input) && input > 0 && input <= expenses.Count)
+            if(input > 0 && input <= expenses.Count)
             {
-                int index = input -1;
-            }
-
-
-        }
-    /*
-        public void RemoveDespesa(List<Despesas> despesas)
-        {
-            Console.WriteLine("\nEscolha o número da despesa para remover:");
-
-            string inputStr = Console.ReadLine();
-
-            if (int.TryParse(inputStr, out int input) && input > 0 && input <= despesas.Count)
-            {
-                int index = input - 1; 
-                Console.WriteLine($"\nCategoria {despesas[index].category} removida com valor {despesas[index].value}$");
-                despesas.RemoveAt(index);
-
+                Console.WriteLine($"Succesfully removed category {input} and it's value.");
+                expenses.RemoveAt(input - 1);
             }
             else
             {
-             Console.WriteLine("Número inválido.");
+                Console.WriteLine($"Something went wrong. Try again.");
+            }
+
+        }
+    void EditExpenses(List<Expenses> expenses)
+    {
+        PrintExpenses(expenses);
+        Console.WriteLine("\nType expense index to edit:");
+
+        if (int.TryParse(Console.ReadLine(), out int input) && input > 0 && input <= expenses.Count)
+        {
+            int index = input - 1; // Преобразуем в индекс списка
+            Expenses selectedExpense = expenses[index];
+
+            Console.WriteLine($"\nCurrently editing: {selectedExpense.category} of value {selectedExpense.value}$");
+
+            Console.WriteLine("Type new category:");
+            string newCategory = Console.ReadLine();
+
+            Console.WriteLine("Enter new value:");
+            if (int.TryParse(Console.ReadLine(), out int newValue))
+            {
+                Console.WriteLine($"\nSuccessfully changed {selectedExpense.category}/{selectedExpense.value}$ to {newCategory}/{newValue}$");
+
+                selectedExpense.category = newCategory;
+                selectedExpense.value = newValue;
+            }
+            else
+            {
+                Console.WriteLine("Invalid number for value.");
             }
         }
+        else
+        {
+            Console.WriteLine("Invalid index.");
+        }
+    }
 
-
-    */
     private static void Main(string[]args)
     {
         string category ="";
@@ -129,6 +145,14 @@ class Program
                 break;
                 case 4:
                     handler.SearchExpenses(expenses_);
+                break;
+
+                case 5:
+                    handler.EditExpenses(expenses_);
+                break;
+
+                case 6:
+                    handler.RemoveExpenses(expenses_);
                 break;
             }
         }
