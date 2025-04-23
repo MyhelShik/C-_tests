@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DispesaCopy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c1e6c574dc423e1da7e78df15a0d7308e570ec9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9badaf172f430bf4455439fa137068b834bd2cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("DispesaCopy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DispesaCopy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

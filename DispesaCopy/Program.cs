@@ -18,10 +18,11 @@ class Program
             Console.WriteLine($"List of expenses: \n");
             for (int i = 0; i < expenses.Count; i++)
             {
-                Console.WriteLine($"expense nº:{index++}\n{expenses[i].category}\n{expenses[i].value}\n");
+                index++;
+                Console.WriteLine($"expense nº:{index}\n{expenses[i].category}\n{expenses[i].value}\n");
             }
         }
-        void RegisterExpenses(List<Expenses> expenses, string category, int value)
+        void RegisterExpenses(List<Expenses> expenses)
         {
 
             Console.WriteLine($"Type the category to register:");
@@ -59,7 +60,7 @@ class Program
                 if(expenses[i].category == input)
                 {
                     total += expenses[i].value;
-                    Console.WriteLine($"Expense nº:{count}\nCategory:{expenses[i].category}\nValue:{expenses[i].value}\n");
+                    Console.WriteLine($"Expense index:{count}\nCategory:{expenses[i].category}\nValue:{expenses[i].value}\n");
                 }
             }
             Console.WriteLine($"Total value of {input} category: {total}");
@@ -67,7 +68,17 @@ class Program
 
         void RemoveExpenses(List<Expenses> expenses)
         {
-            int index;
+            PrintExpenses(expenses);
+            Console.WriteLine($"Type the index of the expense to remove...");
+
+            string inputStr = Console.ReadLine();
+
+            if(int.TryParse(inputStr, out int input) && input > 0 && input <= expenses.Count)
+            {
+                int index = input -1;
+            }
+
+
         }
     /*
         public void RemoveDespesa(List<Despesas> despesas)
@@ -97,8 +108,8 @@ class Program
         int value = 0;
         int input = -1;
 
-        List<Expenses> expenses_ = new List<Expenses>();
-        Expenses expenses = new Expenses(category, value);
+        List<Expenses> expenses_ = new();
+        Expenses handler = new Expenses(category, value);
         
 
         while (input != 0)
@@ -108,16 +119,16 @@ class Program
             switch (input)
             {
                 case 1:
-                    expenses.RegisterExpenses(expenses_, category, value);
+                    handler.RegisterExpenses(expenses_);
                 break;
                 case 2:
-                    expenses.PrintExpenses(expenses_);
+                    handler.PrintExpenses(expenses_);
                 break;
                 case 3:
-                    expenses.TotalExpenses(expenses_);
+                    handler.TotalExpenses(expenses_);
                 break;
                 case 4:
-                    expenses.SearchExpenses(expenses_);
+                    handler.SearchExpenses(expenses_);
                 break;
             }
         }
