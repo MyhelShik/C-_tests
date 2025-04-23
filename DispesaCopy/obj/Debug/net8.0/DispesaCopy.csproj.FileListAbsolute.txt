@@ -1,0 +1,15 @@
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\obj\Debug\net8.0\DispesaCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\obj\Debug\net8.0\DispesaCopy.AssemblyInfoInputs.cache
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\obj\Debug\net8.0\DispesaCopy.AssemblyInfo.cs
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\obj\Debug\net8.0\DispesaCopy.csproj.CoreCompileInputs.cache
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\obj\Debug\net8.0\DispesaCopy.sourcelink.json
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\bin\Debug\net8.0\DispesaCopy.exe
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\bin\Debug\net8.0\DispesaCopy.deps.json
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\bin\Debug\net8.0\DispesaCopy.runtimeconfig.json
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\bin\Debug\net8.0\DispesaCopy.dll
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\bin\Debug\net8.0\DispesaCopy.pdb
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\obj\Debug\net8.0\DispesaCopy.dll
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\obj\Debug\net8.0\refint\DispesaCopy.dll
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\obj\Debug\net8.0\DispesaCopy.pdb
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\obj\Debug\net8.0\DispesaCopy.genruntimeconfig.cache
+C:\Users\MyhelShik\Documents\GitHub\C-_tests\DispesaCopy\obj\Debug\net8.0\ref\DispesaCopy.dll
