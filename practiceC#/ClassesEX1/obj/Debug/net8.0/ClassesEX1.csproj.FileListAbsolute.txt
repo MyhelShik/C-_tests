@@ -1,0 +1,14 @@
+C:\Users\gafga\Desktop\practiceC#\ClassesEX1\bin\Debug\net8.0\ClassesEX1.exe
+C:\Users\gafga\Desktop\practiceC#\ClassesEX1\bin\Debug\net8.0\ClassesEX1.deps.json
+C:\Users\gafga\Desktop\practiceC#\ClassesEX1\bin\Debug\net8.0\ClassesEX1.runtimeconfig.json
+C:\Users\gafga\Desktop\practiceC#\ClassesEX1\bin\Debug\net8.0\ClassesEX1.dll
+C:\Users\gafga\Desktop\practiceC#\ClassesEX1\bin\Debug\net8.0\ClassesEX1.pdb
+C:\Users\gafga\Desktop\practiceC#\ClassesEX1\obj\Debug\net8.0\ClassesEX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gafga\Desktop\practiceC#\ClassesEX1\obj\Debug\net8.0\ClassesEX1.AssemblyInfoInputs.cache
+C:\Users\gafga\Desktop\practiceC#\ClassesEX1\obj\Debug\net8.0\ClassesEX1.AssemblyInfo.cs
+C:\Users\gafga\Desktop\practiceC#\ClassesEX1\obj\Debug\net8.0\ClassesEX1.csproj.CoreCompileInputs.cache
+C:\Users\gafga\Desktop\practiceC#\ClassesEX1\obj\Debug\net8.0\ClassesEX1.dll
+C:\Users\gafga\Desktop\practiceC#\ClassesEX1\obj\Debug\net8.0\refint\ClassesEX1.dll
+C:\Users\gafga\Desktop\practiceC#\ClassesEX1\obj\Debug\net8.0\ClassesEX1.pdb
+C:\Users\gafga\Desktop\practiceC#\ClassesEX1\obj\Debug\net8.0\ClassesEX1.genruntimeconfig.cache
+C:\Users\gafga\Desktop\practiceC#\ClassesEX1\obj\Debug\net8.0\ref\ClassesEX1.dll

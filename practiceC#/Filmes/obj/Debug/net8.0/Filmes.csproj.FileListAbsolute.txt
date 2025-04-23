@@ -1,0 +1,14 @@
+C:\Users\gafga\Desktop\practiceC#\Filmes\obj\Debug\net8.0\Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gafga\Desktop\practiceC#\Filmes\obj\Debug\net8.0\Filmes.AssemblyInfoInputs.cache
+C:\Users\gafga\Desktop\practiceC#\Filmes\obj\Debug\net8.0\Filmes.AssemblyInfo.cs
+C:\Users\gafga\Desktop\practiceC#\Filmes\obj\Debug\net8.0\Filmes.csproj.CoreCompileInputs.cache
+C:\Users\gafga\Desktop\practiceC#\Filmes\bin\Debug\net8.0\Filmes.exe
+C:\Users\gafga\Desktop\practiceC#\Filmes\bin\Debug\net8.0\Filmes.deps.json
+C:\Users\gafga\Desktop\practiceC#\Filmes\bin\Debug\net8.0\Filmes.runtimeconfig.json
+C:\Users\gafga\Desktop\practiceC#\Filmes\bin\Debug\net8.0\Filmes.dll
+C:\Users\gafga\Desktop\practiceC#\Filmes\bin\Debug\net8.0\Filmes.pdb
+C:\Users\gafga\Desktop\practiceC#\Filmes\obj\Debug\net8.0\Filmes.dll
+C:\Users\gafga\Desktop\practiceC#\Filmes\obj\Debug\net8.0\refint\Filmes.dll
+C:\Users\gafga\Desktop\practiceC#\Filmes\obj\Debug\net8.0\Filmes.pdb
+C:\Users\gafga\Desktop\practiceC#\Filmes\obj\Debug\net8.0\Filmes.genruntimeconfig.cache
+C:\Users\gafga\Desktop\practiceC#\Filmes\obj\Debug\net8.0\ref\Filmes.dll

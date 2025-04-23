@@ -1,0 +1,14 @@
+C:\Users\MyhelShik\Desktop\practiceC#\Dispesa\obj\Debug\net8.0\Dispesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyhelShik\Desktop\practiceC#\Dispesa\obj\Debug\net8.0\Dispesa.AssemblyInfoInputs.cache
+C:\Users\MyhelShik\Desktop\practiceC#\Dispesa\obj\Debug\net8.0\Dispesa.AssemblyInfo.cs
+C:\Users\MyhelShik\Desktop\practiceC#\Dispesa\obj\Debug\net8.0\Dispesa.csproj.CoreCompileInputs.cache
+C:\Users\MyhelShik\Desktop\practiceC#\Dispesa\bin\Debug\net8.0\Dispesa.exe
+C:\Users\MyhelShik\Desktop\practiceC#\Dispesa\bin\Debug\net8.0\Dispesa.deps.json
+C:\Users\MyhelShik\Desktop\practiceC#\Dispesa\bin\Debug\net8.0\Dispesa.runtimeconfig.json
+C:\Users\MyhelShik\Desktop\practiceC#\Dispesa\bin\Debug\net8.0\Dispesa.dll
+C:\Users\MyhelShik\Desktop\practiceC#\Dispesa\bin\Debug\net8.0\Dispesa.pdb
+C:\Users\MyhelShik\Desktop\practiceC#\Dispesa\obj\Debug\net8.0\Dispesa.dll
+C:\Users\MyhelShik\Desktop\practiceC#\Dispesa\obj\Debug\net8.0\refint\Dispesa.dll
+C:\Users\MyhelShik\Desktop\practiceC#\Dispesa\obj\Debug\net8.0\Dispesa.pdb
+C:\Users\MyhelShik\Desktop\practiceC#\Dispesa\obj\Debug\net8.0\Dispesa.genruntimeconfig.cache
+C:\Users\MyhelShik\Desktop\practiceC#\Dispesa\obj\Debug\net8.0\ref\Dispesa.dll

@@ -1,0 +1,14 @@
+C:\Users\gafga\Desktop\practiceC#\Metodos\bin\Debug\net8.0\Metodos.exe
+C:\Users\gafga\Desktop\practiceC#\Metodos\bin\Debug\net8.0\Metodos.deps.json
+C:\Users\gafga\Desktop\practiceC#\Metodos\bin\Debug\net8.0\Metodos.runtimeconfig.json
+C:\Users\gafga\Desktop\practiceC#\Metodos\bin\Debug\net8.0\Metodos.dll
+C:\Users\gafga\Desktop\practiceC#\Metodos\bin\Debug\net8.0\Metodos.pdb
+C:\Users\gafga\Desktop\practiceC#\Metodos\obj\Debug\net8.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gafga\Desktop\practiceC#\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfoInputs.cache
+C:\Users\gafga\Desktop\practiceC#\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfo.cs
+C:\Users\gafga\Desktop\practiceC#\Metodos\obj\Debug\net8.0\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\gafga\Desktop\practiceC#\Metodos\obj\Debug\net8.0\Metodos.dll
+C:\Users\gafga\Desktop\practiceC#\Metodos\obj\Debug\net8.0\refint\Metodos.dll
+C:\Users\gafga\Desktop\practiceC#\Metodos\obj\Debug\net8.0\Metodos.pdb
+C:\Users\gafga\Desktop\practiceC#\Metodos\obj\Debug\net8.0\Metodos.genruntimeconfig.cache
+C:\Users\gafga\Desktop\practiceC#\Metodos\obj\Debug\net8.0\ref\Metodos.dll
