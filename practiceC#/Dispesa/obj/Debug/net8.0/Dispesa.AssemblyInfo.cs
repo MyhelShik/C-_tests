@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dispesa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5bd6a24d4f858d5d536a7276a2fddec05a69afa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3044941da5874a0ce8683741204f889ff53d8fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dispesa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dispesa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

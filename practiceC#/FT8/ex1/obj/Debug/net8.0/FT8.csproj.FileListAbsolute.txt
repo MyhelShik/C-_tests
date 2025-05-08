@@ -1,0 +1,15 @@
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\bin\Debug\net8.0\FT8.exe
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\bin\Debug\net8.0\FT8.deps.json
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\bin\Debug\net8.0\FT8.runtimeconfig.json
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\bin\Debug\net8.0\FT8.dll
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\bin\Debug\net8.0\FT8.pdb
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\obj\Debug\net8.0\FT8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\obj\Debug\net8.0\FT8.AssemblyInfoInputs.cache
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\obj\Debug\net8.0\FT8.AssemblyInfo.cs
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\obj\Debug\net8.0\FT8.csproj.CoreCompileInputs.cache
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\obj\Debug\net8.0\FT8.sourcelink.json
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\obj\Debug\net8.0\FT8.dll
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\obj\Debug\net8.0\refint\FT8.dll
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\obj\Debug\net8.0\FT8.pdb
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\obj\Debug\net8.0\FT8.genruntimeconfig.cache
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\FT8\obj\Debug\net8.0\ref\FT8.dll

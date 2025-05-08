@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FT7", "FT7.csproj", "{03843375-3425-AA7B-7D1A-699BBF8ADC87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03843375-3425-AA7B-7D1A-699BBF8ADC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03843375-3425-AA7B-7D1A-699BBF8ADC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03843375-3425-AA7B-7D1A-699BBF8ADC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03843375-3425-AA7B-7D1A-699BBF8ADC87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE6A46E4-F66E-4E65-B353-1D5942079C79}
+	EndGlobalSection
+EndGlobal

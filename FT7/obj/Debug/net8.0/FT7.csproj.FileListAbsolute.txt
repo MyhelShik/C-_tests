@@ -1,0 +1,15 @@
+c:\Users\gafga\Documents\GitHub\C-_tests\FT7\bin\Debug\net8.0\FT7.exe
+C:\Users\gafga\Documents\GitHub\C-_tests\FT7\bin\Debug\net8.0\FT7.deps.json
+C:\Users\gafga\Documents\GitHub\C-_tests\FT7\bin\Debug\net8.0\FT7.runtimeconfig.json
+c:\Users\gafga\Documents\GitHub\C-_tests\FT7\bin\Debug\net8.0\FT7.dll
+c:\Users\gafga\Documents\GitHub\C-_tests\FT7\bin\Debug\net8.0\FT7.pdb
+c:\Users\gafga\Documents\GitHub\C-_tests\FT7\obj\Debug\net8.0\FT7.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gafga\Documents\GitHub\C-_tests\FT7\obj\Debug\net8.0\FT7.AssemblyInfoInputs.cache
+c:\Users\gafga\Documents\GitHub\C-_tests\FT7\obj\Debug\net8.0\FT7.AssemblyInfo.cs
+c:\Users\gafga\Documents\GitHub\C-_tests\FT7\obj\Debug\net8.0\FT7.csproj.CoreCompileInputs.cache
+c:\Users\gafga\Documents\GitHub\C-_tests\FT7\obj\Debug\net8.0\FT7.sourcelink.json
+c:\Users\gafga\Documents\GitHub\C-_tests\FT7\obj\Debug\net8.0\FT7.dll
+c:\Users\gafga\Documents\GitHub\C-_tests\FT7\obj\Debug\net8.0\refint\FT7.dll
+c:\Users\gafga\Documents\GitHub\C-_tests\FT7\obj\Debug\net8.0\FT7.pdb
+C:\Users\gafga\Documents\GitHub\C-_tests\FT7\obj\Debug\net8.0\FT7.genruntimeconfig.cache
+C:\Users\gafga\Documents\GitHub\C-_tests\FT7\obj\Debug\net8.0\ref\FT7.dll

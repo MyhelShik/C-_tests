@@ -1,24 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "C:\\Users\\gafga\\Documents\\GitHub\\C-_tests\\practiceC#\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "C:\\Users\\gafga\\Documents\\GitHub\\C-_tests\\practiceC#\\ConsoleApp2\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "C:\\Users\\gafga\\Documents\\GitHub\\C-_tests\\practiceC#\\ConsoleApp2\\ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
-        "projectPath": "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\ConsoleApp2\\ConsoleApp2.csproj",
-        "packagesPath": "C:\\Users\\MyhelShik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MyhelShik\\Documents\\GitHub\\C-_tests\\practiceC#\\ConsoleApp2\\obj\\",
+        "projectPath": "C:\\Users\\gafga\\Documents\\GitHub\\C-_tests\\practiceC#\\ConsoleApp2\\ConsoleApp2.csproj",
+        "packagesPath": "C:\\Users\\gafga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gafga\\Documents\\GitHub\\C-_tests\\practiceC#\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MyhelShik\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gafga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",

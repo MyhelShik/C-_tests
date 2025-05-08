@@ -1,0 +1,15 @@
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\bin\Debug\net8.0\Agregado.exe
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\bin\Debug\net8.0\Agregado.deps.json
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\bin\Debug\net8.0\Agregado.runtimeconfig.json
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\bin\Debug\net8.0\Agregado.dll
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\bin\Debug\net8.0\Agregado.pdb
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\obj\Debug\net8.0\Agregado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\obj\Debug\net8.0\Agregado.AssemblyInfoInputs.cache
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\obj\Debug\net8.0\Agregado.AssemblyInfo.cs
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\obj\Debug\net8.0\Agregado.csproj.CoreCompileInputs.cache
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\obj\Debug\net8.0\Agregado.sourcelink.json
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\obj\Debug\net8.0\Agregado.dll
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\obj\Debug\net8.0\refint\Agregado.dll
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\obj\Debug\net8.0\Agregado.pdb
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\obj\Debug\net8.0\Agregado.genruntimeconfig.cache
+C:\Users\gafga\Documents\GitHub\C-_tests\practiceC#\Agregado\obj\Debug\net8.0\ref\Agregado.dll
